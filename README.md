@@ -1,1 +1,1 @@
-# v14-bos-altyapi
+Bota dmden soru sorup evet/hayır cevabı alabileceğiniz basit bir bot.
