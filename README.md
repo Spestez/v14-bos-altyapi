@@ -1,1 +1,1 @@
-Bota dmden soru sorup evet/hayır cevabı alabileceğiniz basit bir bot.
+Discord.js V14 Kullanan Boş Bot
